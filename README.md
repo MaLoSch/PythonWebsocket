@@ -3,7 +3,7 @@ Simple python script which connects to an open websocket server
 
 ## Setup
 The script needs the following libraries
-- websocket
+- websocket (https://websocket-client.readthedocs.io)
 - ssl
 - json
 
